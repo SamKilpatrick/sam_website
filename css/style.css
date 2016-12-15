@@ -30,3 +30,10 @@ h7 {
 	color: green;
 	font-size: 30px;
 }
+#image {width,33%;
+	float:left;
+	
+}
+#gallery{
+	clear:both;
+}
